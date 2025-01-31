@@ -5,7 +5,7 @@ The game I created is a game called Fight War which is inspired by Space War in 
 - The meteor will be destroyed with just 1 shot.
 
 Controller : 
-  Fire : Space
-  Movement : WASD
+  - Fire : Space
+  - Movement : WASD
   
 Link for play : https://ikhwanvanno.github.io/FlightWarConstruct/
