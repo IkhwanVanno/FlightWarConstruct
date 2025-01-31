@@ -5,4 +5,4 @@ The game I created is a game called Fight War which is inspired by Space War in 
 - Aliens have 2 lives, so it takes 2 shots to destroy Aliens
 - The meteor will be destroyed with just 1 shot.
 
-Link for play : 
+Link for play : https://ikhwanvanno.github.io/FlightWarConstruct/
