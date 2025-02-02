@@ -6,6 +6,6 @@ The game I created is a game called Fight War which is inspired by Space War in 
 
 Controller : 
   - Fire : Space
-  - Movement : WASD
+  - Movement : Arrow Key ←↑→↓
   
 Link for play : https://ikhwanvanno.github.io/FlightWarConstruct/
